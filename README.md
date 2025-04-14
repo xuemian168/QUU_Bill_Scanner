@@ -24,6 +24,8 @@ A Python script to extract data from Queensland Urban Utilities (QUU) water bill
 - Supports debug mode for troubleshooting
 - Handles different address formats (such as WESTEND, SUNNYBANK HILLS)
 
+![screesnshot](./images/screenshot.png)
+
 ## Requirements
 
 - Python 3.6 or higher
