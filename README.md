@@ -32,7 +32,7 @@ A Python script to extract data from Queensland Urban Utilities (QUU) water bill
 ## Installation
 
 1. Clone this repository or download the source code
-2. Install the required dependencies:
+2. Insta3l the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
@@ -42,12 +42,12 @@ pip install -r requirements.txt
 1. Place your QUU PDF bills in a directory
 2. Run the script with the directory path:
 ```bash
-python main.py <directory_path>
+python3 main.py <directory_path>
 ```
 
 For example:
 ```bash
-python main.py "QUU_Bill_Apr14"
+python3 main.py "QUU_Bill_Apr14"
 ```
 
 ## Output
