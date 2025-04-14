@@ -22,7 +22,7 @@ A Python script to extract data from Queensland Urban Utilities (QUU) water bill
 - Processes multiple PDF bills at once
 - Exports data to CSV format for easy analysis
 - Supports debug mode for troubleshooting
-- Handles different address formats (MACGREGOR, SUNNYBANK HILLS)
+- Handles different address formats (such as WESTEND, SUNNYBANK HILLS)
 
 ## Requirements
 
